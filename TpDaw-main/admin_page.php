@@ -14,10 +14,12 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Poetsen+One&display=swap" rel="stylesheet">
-    <title></title>
+<title>MILKY</title>
 </head>
 
 <body> 
+
+  <!--  Milk<-->
   <div class="slide1">
     <header>
         <h2 class="logo">MILKY</h2>
@@ -38,12 +40,12 @@
       <p id="p1">Experience the nourishing power of milk!<br>Packed with essential nutrients like calcium and protein,<br> our farm-fresh milk supports strong bones and muscles.<br> Elevate your health and wellness with every sip. <br>
        Discover the goodness today!</p>
      </div>
-     <div class="milk-image1"> <img src="images/Design_sans_titre__2_-removebg-preview__1_-removebg-preview (2).png" width="600" alt=""></div>
+     <div class="milk-image1"> <img src="images/Design_sans_titre__2_-removebg-preview__1_-removebg-preview (2)(1).png" width="600" alt=""></div>
    </div>
     <button class="btn-1">Buy Now</button>
     </div>
 
-
+   <!-- Strawberry Milk<-->
 
    <div class="slide2">
    <div class="page2">
@@ -61,7 +63,7 @@
    
    </div>
    
-
+   <!-- Banana Milk<-->
    <div class="slide3">
    <div class="page3">
 
@@ -69,13 +71,28 @@
      <h1 id="h13">Banana Milk</h1>
       <p id="p3">"Experience a tropical twist with our Banana Milk!<br> Crafted with ripe bananas and creamy milk,<br> it's a delicious fusion of flavor and nutrition.<br> Elevate your taste buds with every sip.<br> Taste the richness today!</p>
      </div>
-     <div class="milk-image3"> <img src="images/Design_sans_titre__4_-removebg-preview (1).png" width="480" alt=""></div>
+     <div class="milk-image3"> <img src="images/bananaMilk.png" width="480" alt=""></div>
 
    </div>
     <button class="btn-3">Buy Now</button>
     </div>
    </div>
    
+   <!-- blueberry Milk<-->
+   <div class="slide4">
+   <div class="page4">
+
+   <div class="milk-image4"> <img src="images/blueberryMilk.png" width="480" alt=""></div>
+
+     <div class="discription4">
+     <h1 id="h14">BlueBerry Milk</h1>
+      <p id="p4">Discover the vibrant taste of our Blueberry Milk!<br> Bursting with the goodness of ripe blueberries and creamy milk,<br> it's a delightful blend that's both refreshing and nutritious.<br> Experience the essence of blueberries in every sip.<br> Try it now!</p>
+     </div>
+
+   </div>
+    <button class="btn-4">Buy Now</button>
+    </div>
+   </div>
  </body>
 
 </html>
